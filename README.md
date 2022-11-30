@@ -1,5 +1,5 @@
 # C++ to Python Transpiler
-_Credits: Vincenzo Ancona and Danilo Danese_
+_Credits: [Vincenzo Ancona](https://github.com/vancona95) and [Danilo Danese](https://github.com/Danesed)_
 
 This project is an implementation of a transpiler (source-to-source compiler) from a restriction of C++ to Python for the Formal Languages and Compilers course (prof. Floriano Scioscia, Politecnico di Bari).
 
@@ -45,4 +45,3 @@ To launch the `transpiler.sh` file, just execute the following command on the te
 ```
 sh transpiler.sh
 ```
-
