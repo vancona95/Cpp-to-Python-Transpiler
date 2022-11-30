@@ -1,0 +1,1 @@
+../../.././a.out < expressions.cpp
